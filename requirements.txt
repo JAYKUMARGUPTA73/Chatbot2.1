@@ -1,0 +1,7 @@
+Flask
+Gunicorn
+Nltk
+Tendorflow
+Json
+Pickle
+Sys
